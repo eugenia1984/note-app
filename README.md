@@ -1,3 +1,53 @@
+## :star2: NOTE APP :star2:
+
+---
+
+## Consigna
+
+### ¡Te elegimos para este proyecto! 
+
+Uno de nuestros clientes necesita resolver una situación pero aún no se decide  con  qué  tecnología  hacerlo.  No  obstante  y  para  optimizar  los 
+tiempos, te encomendamos lo siguiente:  
+
+- Deberás crear un nuevo proyecto de React utilizando el CLI de CRA.  
+
+- La  aplicación,  en  principio,  debe  contar  con  tres  componentes principales, además de App:
+
+o Task 
+
+o TaskList 
+
+o TaskForm 
+
+- En esta ocasión, el cliente ha decidido solicitar que cada archivo .js (o .jsx) tenga su propia  hoja de estilos, por lo que deberás 
+alojarlas en una carpeta llamada styles.  
+
+- Deberás elegir una imagen que será la cabecera del producto. Esta imagen,  por  el  momento,  será  a  elección  y  te  indicaremos  dónde 
+colocar cuando se presente el mockup 
+
+- Cada tarea deberá tener un ID único. Como aún no está preparado el backend, deberás resolver este problema para que luego solo quede 
+la integración por resolver.  
+
+- Estamos  trabajando  con  los  mejores  estándares  de  codificación  por lo que necesitamos que todo esté escrito con las implementaciones 
+de ECMA6 y posteriores (funciones, destructuring, entre otros).  
+
+- Antes de que nuestro cliente se decida con qué tecnología trabajar, deberás conectar los componentes y sus eventos por medio de props. 
+Veremos cómo manejar esto más adelante.  
+
+- Este  proyecto  debe  permitir  crear  nuevos  ítems,  debe  permitir borrarlos  y  debe  generar  algún  cambio  en  la  UI  cuando  estén 
+completos.  El  cliente  está  evaluando  la  posibilidad  de  hacer  un update  del  proyecto  hacia  un  CRUD  pero  aún  no  nos  ha  solicitado 
+nada al respecto.  
+
+- Por  último,  deberás  implementar  un  formulario,  el  cual  estará vinculado con la creación de los ítems. No olvides crear un handler 
+para guardar esa información y mostrarla en la UI 
+ 
+-> Debe ser responsivo
+
+¡Éxitos y te mantenemos al tanto de las nuevas features por desarrollar!
+
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
