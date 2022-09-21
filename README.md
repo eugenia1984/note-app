@@ -2,6 +2,10 @@
 
 ---
 
+- Proyecto de una app de notas, realizado en la **Avalith Skill Factory** de **React**.
+
+---
+
 ## Consigna
 
 ### ¡Te elegimos para este proyecto! 
@@ -45,6 +49,30 @@ para guardar esa información y mostrarla en la UI
 
 ¡Éxitos y te mantenemos al tanto de las nuevas features por desarrollar!
 
+
+---
+
+### Mockup
+
+![Mockup de la lista de tareas](https://github.com/eugenia1984/Avalith-React/blob/main/clase29/mockup.png)
+
+---
+
+### ¿ Cómo verlo en tu local ?
+
+1. Crea una carpeta en tu computadora
+
+2. Abri tu terminal en esa nueva carpeta
+
+3. Clonate el proyecto con:
+
+```git clone https://github.com/eugenia1984/note-app.git .```
+
+4. Ingresa dentro de **note-app**: ```cd note-ap```
+
+5. Instala todas las dependencias del proyecto con : ```npm install```
+
+6. Ve el proyecto en tu navegador con: ```npx start```
 
 ---
 

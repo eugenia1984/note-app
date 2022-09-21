@@ -1,0 +1,17 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.App {
+  font-family: 'Roboto', sans-serif;
+}
+
+.containerLogo img {
+  width: 48px;
+  height: 48px;
+}

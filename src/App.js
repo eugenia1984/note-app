@@ -1,23 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import TaskList from "./components/TaskList";
+import "./styles/App.css";
 
 function App() {
+  const noteApp = "https://img.icons8.com/external-bearicons-outline-color-bearicons/48/000000/external-notes-graphic-design-bearicons-outline-color-bearicons.png";
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* Evaluar si puedo componetizar el Logo*/}
+      <div className="containerLogo">
+        <img src={noteApp} alt="note icon" height={48}/>
+      </div>
+        <h1>Lista de Tareas</h1>
+        <TaskList />
     </div>
   );
 }
