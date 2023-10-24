@@ -74,6 +74,13 @@ para guardar esa información y mostrarla en la UI
 
 6. Ve el proyecto en tu navegador con: ```npx start```
 
+
+---
+
+Seguime en: [LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
+
+
+---
 ---
 
 # Getting Started with Create React App
